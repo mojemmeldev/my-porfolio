@@ -64,7 +64,7 @@ const Resume = () => {
           </div>
 
           {/* Contact Details Bar */}
-          <div className="mt-5 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-3 text-xs sm:text-sm text-gray-600 pt-4 border-t border-gray-100">
+          <div className="mt-5 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 gap-3 text-xs sm:text-sm text-gray-600 pt-4 border-t border-gray-100">
             <a
               href="mailto:mojammel01626@gmail.com"
               className="flex items-center gap-1.5 hover:text-blue-600 transition"
